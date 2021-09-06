@@ -19,7 +19,7 @@ package org.springframework.boot.admin;
 /**
  * An MBean contract to control and monitor a running {@code SpringApplication} via JMX.
  * Intended for internal use only.
- *
+ *JMX Java管理扩展
  * @author Stephane Nicoll
  * @since 1.3.0
  */
